@@ -12,11 +12,11 @@ int main()
 	string textToAnalyze;
 	
 	int vowels = 0;
-	int consonants = 0;
+	int consonants = 0; 
 	int digits = 0;
 	int spaces = 0;
 	int lengthOfStringSubmittedForAnalysis = 0;
-	int unknownCharacters = 0;
+	int unknownCharacters = 0; 
 	int checkSum = 0;
 	
 
